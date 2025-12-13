@@ -19,7 +19,7 @@ Time Complexity:
 
 ### **Files**
 
-* `Q1_BubbleSort.c`
+* `Q1.c`
 * `DAA A2 Q1 OUTPUT.png`
 
 ---
@@ -38,7 +38,7 @@ Time Complexity:
 
 ### **Files**
 
-* `Q2_InsertionSort.c`
+* `Q2.c`
 * `DAA A2 Q2 OUTPUT.png`
 
 ---
@@ -56,7 +56,7 @@ Time Complexity:
 
 ### **Files**
 
-* `Q3_SelectionSort.c`
+* `Q3.c`
 * `DAA A2 Q3 OUTPUT.png`
 
 ---
@@ -77,7 +77,7 @@ Time Complexity:
 
 ### **Files**
 
-* `Q4_BucketSort.c`
+* `Q4.c`
 * `DAA A2 Q4 OUTPUT.png`
 
 ---
@@ -101,7 +101,7 @@ Time Complexity:
 
 ### **Files**
 
-* `Q5_HeapSort.c`
+* `Q5.c`
 * `DAA A2 Q5 OUTPUT.png`
 
 ---
@@ -109,3 +109,5 @@ Time Complexity:
 ## **📂 Document Included**
 
 * `DAA LAB ASSIGNMENT 2.docx` — contains all questions, C programs, output screenshots, and interpretations.
+
+---
