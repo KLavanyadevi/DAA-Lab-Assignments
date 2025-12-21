@@ -30,8 +30,8 @@ Time Complexity: **O(V²)** (using adjacency matrix)
 
 ### **Files**
 
-- `BFS.c`
-- `BFS_OUTPUT.png`
+- `Q1.c`
+- `DAA A3 Q1 OUTPUT.png`
 
 ---
 
@@ -55,8 +55,8 @@ Time Complexity: **O(V²)** (using adjacency matrix)
 
 ### **Files**
 
-- `DFS.c`
-- `DFS_OUTPUT.png`
+- `Q2.c`
+- `DAA A3 Q2 OUTPUT.png`
 
 ---
 
